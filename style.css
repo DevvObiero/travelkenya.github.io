@@ -5,7 +5,9 @@ body {
 
 h1,h2{font-family:'Roboto', sans-serif;
 
-text-align: center;}
+text-align: center;
+color:rgba(244, 164, 96, 0.5);
+text-shadow:2px 2px 4px  #000000;}
 
 .form-container{
   width: 70%;
@@ -22,7 +24,8 @@ h1{font-size: 45px;
 text-align: center;} 
 
 title{margin-top:0;
-text-align: center;}
+text-align: center;
+}
 
 p{color: #b48c36;
 font-family:'Roboto';
